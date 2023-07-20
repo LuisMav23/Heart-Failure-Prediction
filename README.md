@@ -34,6 +34,7 @@ This dataset was created by combining different datasets already available indep
 - **Stalog (Heart) Data Set:** 270 observations
 
 **Total:** 1190 observations
+
 **Duplicated:** 272 observations
 
 **Final dataset: 918 observations**
